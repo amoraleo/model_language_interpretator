@@ -1,0 +1,18 @@
+ program { int xsd=-3498, r, sxkm; 
+ int q=+523, rq , w=+3;
+ bool iod=true, jfn;
+ string s="dq", s1="daree", s2;
+ /*s2=s+"lll";*/
+ read(rq);
+ write(rq);
+ write(s);
+ write(s1);
+ read(s2);
+ s1=s1+s2;
+ write(s1);
+ if (s>s1 and iod)  
+ write(w);
+ write(q);
+ w=w-2;
+ write(w);
+ }@
